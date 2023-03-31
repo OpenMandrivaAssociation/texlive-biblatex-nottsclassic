@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-nottsclassic
 Version:	41596
-Release:	1
+Release:	2
 Summary:	Citation style for the University of Nottingham
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-nottsclassic
