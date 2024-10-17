@@ -3,7 +3,7 @@ Version:	41596
 Release:	2
 Summary:	Citation style for the University of Nottingham
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-nottsclassic
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-nottsclassic
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-nottsclassic.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-nottsclassic.doc.r%{version}.tar.xz
